@@ -1,5 +1,4 @@
 def count_strings(array)
-  def count_empty_strings(array)
     total = 0
     index = 0
     while index < array.length do
